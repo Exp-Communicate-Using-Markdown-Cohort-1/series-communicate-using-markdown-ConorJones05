@@ -5,3 +5,6 @@
 ```python
 print("hello markdown")
 ```
+- [x] Finish the Assignment
+- [ ] Study for Calc
+- [ ] Study for DSA
