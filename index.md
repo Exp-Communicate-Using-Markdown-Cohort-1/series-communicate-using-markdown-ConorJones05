@@ -1,1 +1,3 @@
 # Cool Header
+
+![Cat thing I dont know what it is](https://octodex.github.com/images/yaktocat.png)
